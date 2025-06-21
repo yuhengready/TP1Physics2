@@ -1,0 +1,10 @@
+{
+    "Name": "YourProject",
+    "Modules": [
+        {
+            "Name": "GameplayTasks",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
