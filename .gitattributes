@@ -14,3 +14,4 @@ Binaries/Mac/TP1.app/Contents/MacOS/TP1 filter=lfs diff=lfs merge=lfs -text
 *.o filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.pack filter=lfs diff=lfs merge=lfs -text
+*.utrace filter=lfs diff=lfs merge=lfs -text
