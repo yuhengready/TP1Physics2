@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UCharacterMovementComponent::FindFloor:CharacterMovementComponent.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "bAlwaysCheckFloor">
+            </PersistentString>
+            <PersistentString
+               value = "bForceNextFloorCheck">
+            </PersistentString>
+            <PersistentString
+               value = "bJustTeleported">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
